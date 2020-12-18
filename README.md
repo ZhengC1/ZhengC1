@@ -1,8 +1,15 @@
-### Hi there 👋
+### Huwo 👋
+
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/ZhengC1/ZhengC1/blob/master/assets/chika.gif">
+</div>
+
+</br>
+</br>
+</br>
+
 
 <!--
-**ZhengC1/ZhengC1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
