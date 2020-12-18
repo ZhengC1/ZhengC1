@@ -1,13 +1,8 @@
-### Huwo 👋
+### Huwo, welcome to my dumpster fire 👋
 
 <div align="center">
-<img height="400" alt="GIF" align="left" src="https://github.com/ZhengC1/ZhengC1/blob/main/assets/chika.gif">
+<img height="400" alt="GIF" align="right" src="https://github.com/ZhengC1/ZhengC1/blob/main/assets/chika.gif">
 </div>
-
-</br>
-</br>
-</br>
-
 
 <!--
 Here are some ideas to get you started:
@@ -21,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chun-zheng/)
+[![](https://img.shields.io/badge/-website-332B40?style=flat-square)](https://zhengc1.github.io/#/
