@@ -1,7 +1,7 @@
 ### Huwo 👋
 
 <div align="center">
-<img height="200" width="400" alt="GIF" align="left" src="https://github.com/ZhengC1/ZhengC1/blob/main/assets/chika.gif">
+<img height="400" alt="GIF" align="left" src="https://github.com/ZhengC1/ZhengC1/blob/main/assets/chika.gif">
 </div>
 
 </br>
