@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![](https://img.shields.io/badge/-linkedin-0073B1?style=flat-square)](https://www.linkedin.com/in/chun-zheng/)
-[![](https://img.shields.io/badge/-website-332B40?style=flat-square)](https://zhengc1.github.io/#/
+[![](https://img.shields.io/badge/-website-332B40?style=flat-square)](https://zhengc1.github.io/#/)
